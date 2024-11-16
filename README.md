@@ -1,5 +1,5 @@
 > Because the burner drills need it.
 
-# Ultra-carbonous Rocks
+# Ultracarbonous Rocks
 
 Makes every rock **on Nauvis** give Coal just like the huge rocks.

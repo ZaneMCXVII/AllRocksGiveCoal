@@ -1,7 +1,7 @@
 {
-	"name": "all-rocks-give-coal",
+	"name": "ultracarbonous-rocks",
 	"version": "1.0.0",
-	"title": "All Rocks Give Coal",
+	"title": "Ultracarbonous Rocks",
 	"author": "Zane1117",
 	"factorio_version": "2.0",
 	"dependencies": ["base >= 2.0"],

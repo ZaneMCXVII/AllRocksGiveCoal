@@ -1,0 +1,9 @@
+{
+	"name": "all-rocks-give-coal",
+	"version": "1.0.0",
+	"title": "All Rocks Give Coal",
+	"author": "Zane1117",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0"],
+	"description": "Makes big rocks give coal, just like huge rocks"
+} 

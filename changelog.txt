@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 11/16/2024
+  Major Features:
+    - Initial release
+    - Big rocks and big sandy rocks now give 16-24 coal each 
